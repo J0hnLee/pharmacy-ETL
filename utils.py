@@ -1,3 +1,4 @@
 import os
 
-print("How are you.")
+def helloWorld():
+    print("Hello World")
