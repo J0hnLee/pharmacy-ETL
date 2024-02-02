@@ -1,0 +1,25 @@
+[
+    {
+     "id":1,
+      "name": "乙醯氨酚",
+      "sku": "K0132",
+      "price": 20,
+      "tags":["藥品"]
+    },
+    {  
+    "id":2,
+      "name": "product2",
+      "sku": "K0132",
+      "price": 30,
+      "tags":["百貨"]
+
+    },
+    {
+        "id":3,
+      "name": "product3",
+      "sku": "K0132",
+      "price": 20,
+      "tags":["買1送1"]
+
+    }
+  ]
